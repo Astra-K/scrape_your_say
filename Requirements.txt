@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+matplotlib
+plotly
+seaborn
+geopandas
+pyyaml
+python-dateutil
