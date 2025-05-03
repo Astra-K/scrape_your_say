@@ -7,7 +7,7 @@ This repository provides tools to analyze public consultation feedback from the 
 git clone https://github.com/Astra-K/scrape_your_say.git
 cd scrape-your-say
 pip install -r requirements.txt
-Make sure the input YAML file is placed in the data/ folder. Then, run the analysis script.
+Make sure the input YAML file is placed in the data/ folder. Then, run the analysis script. Raw Yaml is an uncleaned version, for the analysis certain data aggregation was needed, which is why both are added.
 
 ## ▶️ Running the Analysis
 python src/scrape_analysis.py
